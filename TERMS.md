@@ -113,7 +113,7 @@ In these Terms:
 
 **9.4** QDP Cloud features are not designed to store personal data. If you need to store personal data in a shared workspace repository hosted by QDP Cloud, contact us first so that we can agree data processing terms with you. Until we have, you must not do so.
 
-**9.5** We handle personal information about you in line with UK data protection law.
+**9.5** We handle personal information about you in line with UK data protection law, as the QDP Privacy Notice explains. You can read it in QDP and wherever QDP is published.
 
 ## 10. Third-party services, AI models and agents
 
