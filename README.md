@@ -13,3 +13,9 @@ Each GitHub Release here is published automatically by the `release` workflow in
 repo when a `v*` tag is pushed there. The installed app checks
 `https://github.com/Alexveeuk/qdp-releases/releases/latest/download/latest.json` on launch and prompts
 to update whenever a newer **signature-verified** version is available.
+
+## Licence and terms of use
+QDP is proprietary software. Copyright © 2026 Alexander Viljoen. All rights reserved.
+
+Use of QDP is governed by the [QDP Terms of Use](TERMS.md), which the app asks you to accept when
+you create an account or sign in. QDP is licensed, not sold; see [LICENSE](LICENSE).
