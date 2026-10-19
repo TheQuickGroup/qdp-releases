@@ -9,7 +9,7 @@ This notice explains what personal information QDP (Quick Data Products) collect
 - Your data stays on your device. QDP processes the data you work with on your own computer, and we never receive it unless you choose to put it in QDP Cloud.
 - To run your account we collect your email address, an optional display name, sign-in and licence records, and your acceptance of the Terms of Use.
 - QDP sends us anonymised usage counts about once an hour. They never contain your data values, table or column names, file contents or queries.
-- Supabase hosts our accounts and QDP Cloud for us, in its EU (Ireland) region.
+- Supabase hosts our accounts and QDP Cloud for us in its London region, so your account information is stored in the UK.
 - We do not sell your information, use it for advertising, or use it to train AI models.
 - You can ask to see, correct or delete your information at any time.
 
@@ -51,7 +51,7 @@ This notice explains what personal information QDP (Quick Data Products) collect
 
 ## 4. Who we share it with
 
-**4.1** Supabase, Inc. hosts QDP's accounts, licence records, usage reports and QDP Cloud, and sends sign-up and password-reset emails for us. It acts as our processor under a data processing agreement, and our Supabase project is in its EU (Ireland) region.
+**4.1** Supabase, Inc. hosts QDP's accounts, licence records, usage reports and QDP Cloud, and sends sign-up and password-reset emails for us. It acts as our processor under a data processing agreement, and our Supabase project is in its London (United Kingdom) region.
 
 **4.2** Other members of your organisation can see its name, its members' email addresses and roles, and anything shared with the organisation.
 
@@ -61,7 +61,7 @@ This notice explains what personal information QDP (Quick Data Products) collect
 
 ## 5. International transfers
 
-**5.1** Supabase stores QDP's information in the EU, which UK law recognises as giving adequate protection. Supabase and its sub-processors may access or process some of it in other countries, including the United States. Those transfers are protected by the EU standard contractual clauses, together with the UK Addendum issued by the Information Commissioner, which form part of Supabase's data processing agreement.
+**5.1** Supabase stores QDP's information in the United Kingdom. Supabase and its sub-processors may access or process some of it in other countries, including the United States. Those transfers are protected by the EU standard contractual clauses, together with the UK Addendum issued by the Information Commissioner, which form part of Supabase's data processing agreement.
 
 ## 6. Keeping it secure
 
