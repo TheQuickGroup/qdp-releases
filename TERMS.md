@@ -1,6 +1,6 @@
 # QDP Terms of Use
 
-**Version 2026-10-18** · Last updated 18 October 2026
+**Version 2026-10-25** · Last updated 25 October 2026
 
 These Terms of Use are a legal agreement between you and **Alexander Viljoen**, trading as QDP (Quick Data Products) ("we", "us", "our"). They govern your use of QDP. Please read them carefully. By ticking the box to accept them, or by installing or using QDP, you agree to them. If you do not agree, do not install or use QDP.
 
@@ -13,7 +13,7 @@ This summary is for convenience only. The full Terms below apply.
 - QDP is for business and professional use. You must be 18 or over.
 - We own QDP: its code, design, documentation, name and logo. You get a licence to use it while your account has an active licence.
 - You must not copy, resell, modify, reverse engineer or work around QDP's licence checks, except where the law says you may.
-- Your data is yours. QDP keeps your data on your own device. We receive only your account details, your licence status and anonymised usage counts, plus anything you choose to send through QDP Cloud features.
+- Your data is yours. QDP keeps your data on your own device. We receive only your account details, your licence status and anonymised usage counts.
 - QDP is provided "as is". Our liability to you is limited.
 - English law governs these Terms, and the courts of England and Wales decide disputes.
 
@@ -39,7 +39,7 @@ In these Terms:
 
 - **"QDP"** means the QDP software and services together: the Software, the Services and the Documentation, and every update, upgrade, fix and new version of them that we make available.
 - **"Software"** means the QDP desktop application, the `qdp` command-line tool, the built-in MCP server, the QDP plugin, skills and agent playbooks for third-party AI tools, sample data and templates, and any other software we supply as part of QDP, in object code form.
-- **"Services"** means the online services we provide with the Software, including accounts and sign-in, licence checks, the update feed, usage reporting and QDP Cloud features such as organisations, the Team Catalogue and shared workspace repositories hosted by us.
+- **"Services"** means the online services we provide with the Software: accounts and sign-in, licence checks, the update feed and usage reporting.
 - **"Documentation"** means the guides, help pages, in-app text and other material describing QDP that we make available.
 - **"Your Data"** means the data, files, queries, code, models and other content that you or anyone acting for you puts into or connects to QDP.
 - **"Outputs"** means what you create with QDP from Your Data, such as tables, data products, contracts, dashboards, apps, semantic models, notebooks, reports and exports.
@@ -97,7 +97,7 @@ In these Terms:
 
 **8.1** You own Your Data and your Outputs. We claim no ownership of them.
 
-**8.2** QDP processes Your Data on your own device. We do not receive Your Data, except for what you choose to send through QDP Cloud features (see clause 9.3) or what QDP sends to third-party services at your instruction (see clause 10).
+**8.2** QDP processes Your Data on your own device. We do not receive Your Data. QDP sends Your Data to third-party services only at your instruction (see clause 10).
 
 **8.3** You are responsible for Your Data: for having the rights and permissions you need to use it with QDP, for its accuracy and lawfulness, and for complying with data protection law when it includes personal data. You are also responsible for keeping your own back-ups.
 
@@ -109,11 +109,7 @@ In these Terms:
 
 **9.2** Usage reporting and licence checks are part of how QDP works and cannot be switched off while you use it.
 
-**9.3** If you use QDP Cloud features, the information you choose to share goes to our servers and those of our hosting providers. For example, publishing a product to your team shares its schema, descriptions, metadata and quality results, and a shared workspace repository hosted by QDP Cloud stores a full copy of that workspace, including its data. You grant us a non-exclusive, worldwide licence to host, store, copy and transmit that information only as needed to provide those features to you and the people you share with.
-
-**9.4** QDP Cloud features are not designed to store personal data. If you need to store personal data in a shared workspace repository hosted by QDP Cloud, contact us first so that we can agree data processing terms with you. Until we have, you must not do so.
-
-**9.5** We handle personal information about you in line with UK data protection law, as the QDP Privacy Notice explains. You can read it in QDP and wherever QDP is published.
+**9.3** We handle personal information about you in line with UK data protection law, as the QDP Privacy Notice explains. You can read it in QDP and wherever QDP is published.
 
 ## 10. Third-party services, AI models and agents
 
@@ -169,7 +165,7 @@ You will indemnify us against all liabilities, losses, damages, costs and expens
 
 **16.3** We may also end your licence for any other reason, or stop providing QDP altogether, by giving you at least 30 days' notice.
 
-**16.4** When your licence ends, all rights granted to you under these Terms end. You must stop using QDP and uninstall the Software, and QDP will stop opening on your devices. Your Data stays on your devices in standard formats, such as DuckDB, SQLite and Parquet files, which you can still read with other tools. Information held in QDP Cloud features may be deleted after your account closes, so export anything you need first.
+**16.4** When your licence ends, all rights granted to you under these Terms end. You must stop using QDP and uninstall the Software, and QDP will stop opening on your devices. Your Data stays on your devices in standard formats, such as DuckDB, SQLite and Parquet files, which you can still read with other tools.
 
 **16.5** Clauses 6, 7, 8.4, 9.3, 13, 14, 15, 16.4, 16.5 and 18, and any other clause that by its nature is meant to survive, continue to apply after your licence ends.
 
